@@ -1,0 +1,13 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\MDW+Telcel_v3.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\MDW+Telcel_v3.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\MDW+Telcel_v3.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\obj\Debug\MDW+Telcel_v3.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\obj\Debug\MDW+Telcel_v3.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\obj\Debug\MDW+Telcel_v3.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\MDW+Telcel_v3.exe.manifest
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\MDW+Telcel_v3.application
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\obj\Debug\MDW+Telcel_v3.exe.manifest
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\obj\Debug\MDW+Telcel_v3.application
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\HTKSocket.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Telcel_v3\MDW+Telcel_v3\bin\Debug\HTKSocket.pdb
